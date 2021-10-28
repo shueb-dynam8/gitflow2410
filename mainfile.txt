@@ -2,3 +2,7 @@ This is main file from master branch
 
 file is modified in develop 
 branch
+
+
+feature2 changes 
+modified in feature2 branch as f2 
