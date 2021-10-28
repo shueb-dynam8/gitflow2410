@@ -2,3 +2,8 @@ This is main file from master branch
 
 file is modified in develop 
 branch
+
+
+
+The file modified in feature1 branch 
+feature1 change
