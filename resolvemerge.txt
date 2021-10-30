@@ -12,4 +12,10 @@ class Hello
 	    {
 	      //Sample Code
 	    }
-	}
+	
+          Initial Security
+           {
+             //Sample Code
+           }
+         }
+
